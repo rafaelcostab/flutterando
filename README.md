@@ -1,4 +1,8 @@
-# hello_world
+# Flutterando
+
+Youtube: [Flutter Curso 2022](https://www.youtube.com/playlist?list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)
+
+## hello_world
 
 A new Flutter project.
 
